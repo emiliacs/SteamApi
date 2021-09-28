@@ -17,7 +17,7 @@ User can link their Steam Account and see all games they have, and some extra in
 ### Install
 
 - Clone and make sure requirements are installed.
-- -Ethereal email [LINK](https://ethereal.email/)
+- Ethereal email [LINK](https://ethereal.email/)
 - Steam Api key. [Link](https://steamcommunity.com/dev/)
 - REMEMBER to add appsettings.Development.json!
   - Example
