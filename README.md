@@ -1,7 +1,7 @@
 # Project Purple: SteamApi
 \*ASP.Net Core(5.0) API
 
-Link to repository: [Link](https://gitlab.com/Miketti/ryhmatyo-buutti-server)
+Link to repository: [Link](https://github.com/emiliacs/steamapibackend)
 
 ## What is this?
 
